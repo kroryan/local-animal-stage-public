@@ -1,0 +1,13 @@
+.godot/
+build/
+builds/
+dist/
+claves/
+*.pck
+*.apk
+*.aab
+*.exe
+*.msi
+*.AppImage
+*.deb
+__pycache__/

@@ -1,0 +1,11 @@
+Open Animal Stage model assets
+Source: Pr1nted/Open-Animal-Stage, commit
+4cb2c8610c801febf355279e58a920897ce99e3e. The eight GLB preview models were
+copied unchanged. Their Apache-2.0 license is in
+THIRD_PARTY_LICENSES/OPEN-ANIMAL-STAGE-APACHE-2.0.txt.
+
+TauPlot is Copyright 2026 Matthieu Lapeyre and is distributed under its
+BSD-3-Clause license in THIRD_PARTY_LICENSES/TAUPLOT-BSD-3-CLAUSE.txt.
+
+The LIF model lineage carries the MIT attribution to Philip Shiu and Nico
+Spiller; see THIRD_PARTY_LICENSES/SHIU-MIT.txt.
